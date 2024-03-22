@@ -82,7 +82,7 @@ module.exports = {
     'no-irregular-whitespace': 'error',
     'no-multiple-empty-lines': 'error',
     'no-redeclare': 'error',
-    "no-null/no-null": "error",
+    'no-null/no-null': 'error',
     'no-restricted-syntax': [
       'error',
       'ForInStatement'

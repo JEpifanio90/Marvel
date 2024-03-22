@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import { Route, Routes } from "react-router-dom";
 
-import HomeLayout from "./components/layouts/HomeLayout";
+import HomeLayout from "@/components/layouts/HomeLayout";
 import "./App.css";
 
 function App() {
