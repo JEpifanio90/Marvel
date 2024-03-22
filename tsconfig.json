@@ -14,10 +14,10 @@
       "@/*": [
         "./src/*"
       ],
-      "@/features": [
+      "@/features/*": [
         "./src/features/*"
       ],
-      "@/components": [
+      "@/components/*": [
         "./src/components/*"
       ]
     },
